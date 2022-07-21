@@ -1,0 +1,23 @@
+{
+  "name": "nodeunittesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validatePassword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnWhy/nodeUnitTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawnWhy/nodeUnitTesting/issues"
+  },
+  "homepage": "https://github.com/ShawnWhy/nodeUnitTesting#readme",
+  "dependencies": {
+    "jest": "^28.1.3",
+    "npm": "^8.15.0"
+  }
+}
